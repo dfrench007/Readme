@@ -1,2 +1,0 @@
-# Readme
-Just starting out
